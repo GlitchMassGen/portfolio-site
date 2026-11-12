@@ -1,0 +1,8 @@
+Put an .mp3 here (for example our-song.mp3) and match the name in js/config.js
+under  music: { src: "assets/music/our-song.mp3" }
+
+Browsers only allow sound after a tap, so the song starts when she taps the
+"Open it" button on the first screen. A music button stays in the bottom-right
+corner so she can pause or resume.
+
+No file here? No problem. The music button just hides itself.

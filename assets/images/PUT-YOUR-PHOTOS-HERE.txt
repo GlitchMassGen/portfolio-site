@@ -1,0 +1,8 @@
+Put your photos in this folder, then write their file names in js/config.js.
+
+Tips
+- JPG, PNG or WebP work everywhere. iPhone HEIC files do NOT show in most
+  browsers, so export or convert them to JPG first.
+- Resize big photos to about 1600 pixels on the longest side (under 1 MB each).
+  The page loads much faster, especially on her phone.
+- File names with no spaces are safest, e.g. beach-day.jpg

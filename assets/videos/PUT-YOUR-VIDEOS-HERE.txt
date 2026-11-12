@@ -1,0 +1,10 @@
+Put your videos in this folder, then write their file names in js/config.js.
+
+Tips
+- Use .mp4 (H.264 video + AAC audio). It plays on every phone and browser.
+- iPhone .mov files often will not play in Chrome. Export or convert to .mp4
+  (HandBrake, CapCut, or any "convert to mp4" tool).
+- Keep each video under about 50 MB. Shorter clips load faster.
+- Vertical phone videos are fine; the frame adjusts to the video's shape.
+- Optional: a poster image (cover picture) goes in assets/images/ and is
+  named with  poster: "assets/images/your-cover.jpg"  in config.js.
