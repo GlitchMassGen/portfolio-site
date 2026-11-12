@@ -40,7 +40,7 @@ window.SITE_CONFIG = {
   // Plays after she taps the opening button. Put an .mp3 in assets/music/.
   // Remove the file (or set src: "") and the music button simply disappears.
   music: {
-    src: "assets/music/music1.mp3",
+    src: "assets/music/music1.MP3",
     title: "Our song",
     volume: 0.5                  // 0 to 1
   },
